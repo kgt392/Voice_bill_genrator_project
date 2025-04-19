@@ -1,0 +1,19 @@
+Required Libraries list :
+
+For your Voice-Based Bill Generator project in Python, you'll typically need the following libraries. Here's a list of them along with the pip install commands:
+
+Library Name | Purpose | Install Command
+
+speechrecognition | To convert voice input into text | pip install SpeechRecognition
+
+pyaudio | To access the microphone for voice input | pip install pyaudio
+
+pyttsx3 | For text-to-speech output (speaking out the bill, etc.) | pip install pyttsx3
+
+tabulate | To display tabular data in the terminal | pip install tabulate
+
+simply just run these commonds in your terminal :
+pip install SpeechRecognition
+pip install pyaudio
+pip install pyttsx3
+pip install tabulate
