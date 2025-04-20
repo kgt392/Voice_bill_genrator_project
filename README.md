@@ -72,4 +72,4 @@ The Voice-Based Bill Generator provides an intuitive way to handle grocery billi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voice-bill-generator.git
+   git clone https://github.com/kgt392/voice-bill-generator.git
